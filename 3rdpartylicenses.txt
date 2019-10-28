@@ -304,7 +304,7 @@ MIT
 MIT
 MIT
 
-core-js@2.6.9
+core-js@2.6.10
 MIT
 Copyright (c) 2014-2019 Denis Pushkarev
 
